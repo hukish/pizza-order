@@ -28,3 +28,8 @@ The website contains details about the prize and sizes of a pizza. .
 |large              | toppings and crust | price
 
 ## Technologies Used
+ HTML was used in making the skeleton of the website.
+* CSS was used in styling the document.
+* Javascript was used in making the webpage responsive.
+* Atom was the source code editor of choice.
+* Git and Github were used as my local and online repositories respectively.
