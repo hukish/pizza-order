@@ -21,3 +21,8 @@ The website contains details about the prize and sizes of a pizza. .
 *Currently no bug has been identified.
 
 ## Behaviour Driven Development
+|Behaviour                  | Input       | Output              |
+|--------------------------:|:-----------:|:--------------------
+|small pizza            | toppings and crust     | price        
+|medium               |toppings and crust      | price
+|large              | toppings and crust | price
