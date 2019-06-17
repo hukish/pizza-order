@@ -18,3 +18,4 @@ The website contains details about the prize and sizes of a pizza. .
 *The github page is currently live thus the following link will take you to the webpage "https://github.com/hukish/pizza-order.git
 
 ## known bugs
+*Currently no bug has been identified.
