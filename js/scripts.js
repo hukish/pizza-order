@@ -15,6 +15,10 @@ Pizza.prototype.pizzaCost=function() {
 	else if (this.topping==="topping3") {
 		cost+=300;
 	}
+	else if (this.topping==="toppings4"){
+		cost+=400;
+	}
+
 	if (this.crust==="crust1") {
 		cost+=50;
 	}
