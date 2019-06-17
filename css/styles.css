@@ -1,0 +1,49 @@
+
+   body {
+	background-image: url("103375.jpg");
+}
+.cost-show {
+	display: none;
+	margin-bottom: 15px;
+	font-size: 30px;
+}
+.jumbotron {
+	border: 5px solid black;
+	margin-top: 20px;
+	color: none;
+	background-color: transparent;
+	text-align: center;
+	font-family: cursive;
+}
+#name {
+	border: 1px solid black;
+}
+#topping {
+	border: 1px solid black;
+}
+#size {
+	border: 1px solid black;
+}
+.btn {
+	color:black;
+	border: 1px solid;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+.container {
+	background-color: transparent;
+	margin-top: 30px;
+}
+h2 {
+	font-size: 45px;
+}
+#pizza {
+	border: 2px solid #a1a1a1;
+	padding: 10px 40px;
+	background: white;
+	width: 300px;
+	border-radius: 25px;
+}
+.mar {
+	font-size: 80pt;
+}
