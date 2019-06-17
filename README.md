@@ -39,3 +39,5 @@ The website contains details about the prize and sizes of a pizza. .
 * The source code is also contained within the folder containing this ReadMe with comments on the code thus third-party support can be offered
 
 ## License
+*Moringa School
+Copyright (c)2019 **pizza -order by -Hudson saruni*
